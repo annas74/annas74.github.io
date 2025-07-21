@@ -1,0 +1,18 @@
+.brandName{
+    font-family: "Times New Roman", Times, serif;
+    padding: 4px;
+    font-size: 24px;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #dffffa;
+}
+
+#project{
+    background-color: #dffffa;
+}
+
+section{
+    padding-top: 5rem;
+}
